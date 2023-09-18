@@ -1,5 +1,5 @@
       ******************************************************************
-      * Author: GABRIELA
+      * Author: GABRIELA BARBOSA
       * Date: 22/08/2023
       * Purpose: CONTAGEM REGRESSIVA
       * Tectonics: cobc
